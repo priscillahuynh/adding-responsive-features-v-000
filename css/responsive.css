@@ -32,6 +32,8 @@
   }
   
   .col-3 p {
+    -moz-column-count: 2;
+    
     column-count: 1;
   }
 }
