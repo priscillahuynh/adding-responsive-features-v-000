@@ -31,7 +31,9 @@
     top: 72px;
   }
   
-  
+  .col-3 p {
+    column-count: 1;
+  }
 }
 
 @media only screen and (max-width: 800px;) {
