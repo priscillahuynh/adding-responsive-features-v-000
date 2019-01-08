@@ -80,7 +80,9 @@
   #logo {
     padding-top: 60px 0 0 ;
   }
-  
+  #social {
+    top: 60px;
+  }
 }
 
 
