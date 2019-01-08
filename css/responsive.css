@@ -9,6 +9,6 @@
     width: auto;
   }
   #social a {
-    display: inline;
+    display: inline-block;
   }
 }
