@@ -78,8 +78,9 @@
     width: auto;
   }
   #logo {
-    padding-top: 60px;
+    padding-top: 60px 0 0 ;
   }
+  
 }
 
 
